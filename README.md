@@ -1,4 +1,4 @@
-# roster_generator3
+# roster_generator_ARCHIVED
 
 This program generates all the unique rosters with a budget of $50000 that are possible from the list of players given on a players.csv file.
 
